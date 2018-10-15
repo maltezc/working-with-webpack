@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/maltezc/working-with-webpack#readme",
   "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "bable-loader": "0.0.1-security",
     "webpack": "^4.20.2",
     "webpack-dev-server": "^3.1.9"
   },
