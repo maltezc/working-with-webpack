@@ -18,10 +18,14 @@
   },
   "homepage": "https://github.com/maltezc/working-with-webpack#readme",
   "devDependencies": {
+    "autoprefixer": "^9.2.0",
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "bable-loader": "0.0.1-security",
+    "css-loader": "^1.0.0",
+    "postcss-loader": "^3.0.0",
+    "style-loader": "^0.23.1",
     "webpack": "^4.20.2",
     "webpack-dev-server": "^3.1.9"
   },
